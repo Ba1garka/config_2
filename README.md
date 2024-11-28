@@ -43,4 +43,5 @@
 ![Снимок экрана (130)](https://github.com/user-attachments/assets/1c57bc83-8db6-4d9a-a731-b0790a2bf6d6)
 
 ## Граф
-![Снимок экрана (131)](https://github.com/user-attachments/assets/c806164c-e540-4ff9-a6eb-d8c5353e6748)
+![Снимок экрана (134)](https://github.com/user-attachments/assets/b563923e-15b8-4ed3-9a64-0c5397ed2e26)
+
